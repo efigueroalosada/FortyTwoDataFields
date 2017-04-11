@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="26" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="27" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="28" pc="268435476" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="29" pc="268435489" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="30" pc="268435502" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="31" pc="268435515" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="32" pc="268435528" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="33" pc="268435541" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="34" pc="268435554" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="35" pc="268435567" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="36" pc="268435580" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="37" pc="268435593" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="38" pc="268435606" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="39" pc="268435619" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="40" pc="268435632" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="41" pc="268435645" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="42" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="43" pc="268435671" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="44" pc="268435684" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="45" pc="268435697" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="46" pc="268435710" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="47" pc="268435723" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="49" pc="268435736" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="50" pc="268435836" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="51" pc="268435936" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="52" pc="268436036" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="53" pc="268436136" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="55" pc="268436236" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="56" pc="268436257" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="61" pc="268436291" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="63" pc="268436293" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="64" pc="268436304" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="65" pc="268436317" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="67" pc="268436336" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="70" pc="268436352" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="71" pc="268436363" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="72" pc="268436396" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="74" pc="268436426" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="77" pc="268436442" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="78" pc="268436453" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="79" pc="268436466" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="81" pc="268436485" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="84" pc="268436501" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="85" pc="268436512" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="86" pc="268436525" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="87" pc="268436541" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="89" pc="268436569" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="90" pc="268436582" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="93" pc="268436598" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="94" pc="268436609" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="95" pc="268436622" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="96" pc="268436644" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="98" pc="268436672" symbol="compute"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="106" pc="268436689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="107" pc="268436691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="108" pc="268436727" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="110" pc="268436739" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="111" pc="268436775" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="112" pc="268436825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="113" pc="268436875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="115" pc="268436925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="116" pc="268436961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="117" pc="268436981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="119" pc="268437041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="120" pc="268437061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="122" pc="268437121" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="123" pc="268437141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="125" pc="268437201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="126" pc="268437221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="128" pc="268437292" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="129" pc="268437312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="130" pc="268437386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="135" pc="268437444" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="136" pc="268437446" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="137" pc="268437465" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="138" pc="268437478" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="139" pc="268437494" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="140" pc="268437507" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="144" pc="268437524" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="145" pc="268437526" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="148" pc="268437540" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="149" pc="268437542" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="150" pc="268437552" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="151" pc="268437562" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="152" pc="268437581" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="153" pc="268437591" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="154" pc="268437602" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="156" pc="268437668" symbol="toHMS"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="160" pc="268437709" symbol="toMinsXKm"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="161" pc="268437711" symbol="toMinsXKm"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="162" pc="268437727" symbol="toMinsXKm"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="163" pc="268437751" symbol="toMinsXKm"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsView.mc" lineNum="164" pc="268437761" symbol="toMinsXKm"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="9" pc="268437819" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="10" pc="268437821" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="14" pc="268437842" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="17" pc="268437863" symbol="setColor"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="18" pc="268437865" symbol="setColor"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="21" pc="268437876" symbol="draw"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="22" pc="268437878" symbol="draw"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsBackground.mc" lineNum="23" pc="268437910" symbol="draw"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="5" pc="268437923" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="6" pc="268437925" symbol="initialize"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="10" pc="268437944" symbol="onStart"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="14" pc="268437947" symbol="onStop"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="18" pc="268437950" symbol="getInitialView"/>
+<entry filename="C:\\Users\\EFIGUEROAL\\DEV\\connectiq-workspace\\FortyTwoDataFields\\source\\FortyTwoDataFieldsApp.mc" lineNum="19" pc="268437952" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="24" pc="268437990" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268437992" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="27" pc="268438016" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268438179" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="29" pc="268438204" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="30" pc="268438256" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="31" pc="268438302" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268438465" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268438490" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268438542" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268438588" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268438626" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="48" pc="268438628" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="49" pc="268438652" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="50" pc="268438785" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="53" pc="268438918" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="62" pc="268438956" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="64" pc="268438958" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="65" pc="268438982" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="66" pc="268439115" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="69" pc="268439248" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="78" pc="268439286" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="80" pc="268439288" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="81" pc="268439312" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="82" pc="268439445" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="85" pc="268439578" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="94" pc="268439616" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="96" pc="268439618" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="97" pc="268439642" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="98" pc="268439775" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="101" pc="268439908" symbol="BottomRightLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388959" symbol="cadence"/>
+<entry field="true" id="22" symbol="cadenceIcon"/>
+<entry id="8388733" symbol="timerTime"/>
+<entry id="36" method="true" symbol="toMinsXKm"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="34" symbol="gregorianLapTime"/>
+<entry id="16" symbol="activityDistance"/>
+<entry id="41" method="true" symbol="TopLeftLayout"/>
+<entry id="13" symbol="activityTime"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="20" symbol="timeIcon"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="43" method="true" symbol="BottomLeftLayout"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="40" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="18" symbol="lapDistanceMark"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="45" symbol="AppName"/>
+<entry field="true" id="21" symbol="speedIcon"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry id="14" symbol="lapTime"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388750" symbol="currentCadence"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8388963" symbol="altitude"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="42" method="true" symbol="TopRightLayout"/>
+<entry id="8388738" symbol="currentSpeed"/>
+<entry id="8389344" symbol="seconds"/>
+<entry id="8388734" symbol="elapsedDistance"/>
+<entry id="11" symbol="lapNumber"/>
+<entry id="8388747" symbol="currentHeartRate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="17" symbol="lapDistance"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8388958" symbol="speed"/>
+<entry id="33" symbol="y3"/>
+<entry id="32" symbol="y2"/>
+<entry id="31" symbol="y1"/>
+<entry id="30" symbol="y0"/>
+<entry id="38" module="true" symbol="Layouts"/>
+<entry id="8" object="true" symbol="FortyTwoDataFieldsView"/>
+<entry id="29" symbol="x5"/>
+<entry id="28" symbol="x4"/>
+<entry id="27" symbol="x3"/>
+<entry id="26" symbol="x2"/>
+<entry id="25" symbol="x1"/>
+<entry id="24" symbol="x0"/>
+<entry id="44" method="true" symbol="BottomRightLayout"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="15" symbol="lapTimeMark"/>
+<entry id="37" module="true" symbol="Menus"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="19" symbol="hrIcon"/>
+<entry id="12" symbol="hr"/>
+<entry id="10" object="true" symbol="FortyTwoDataFieldsApp"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="35" method="true" symbol="toHMS"/>
+<entry field="true" id="23" symbol="distanceIcon"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436290" name="options" stackId="1" startPc="268435458"/>
+<entry endPc="268437708" name="min" stackId="4" startPc="268437542"/>
+<entry endPc="268437708" name="secs" stackId="2" startPc="268437542"/>
+<entry endPc="268437708" name="sec" stackId="5" startPc="268437542"/>
+<entry endPc="268437708" name="hr" stackId="3" startPc="268437542"/>
+<entry endPc="268437818" name="decimalPart" stackId="3" startPc="268437711"/>
+<entry endPc="268437818" name="sec" stackId="4" startPc="268437711"/>
+<entry endPc="268437818" name="pace" stackId="2" startPc="268437711"/>
+<entry endPc="268437862" name="dictionary" stackId="1" startPc="268437821"/>
+<entry endPc="268438625" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268437992"/>
+<entry endPc="268438625" name="rez_cmp_local_bitmap_value_fontHeight" stackId="6" startPc="268437992"/>
+<entry endPc="268438625" name="rez_cmp_local_bitmap_value" stackId="5" startPc="268437992"/>
+<entry endPc="268438625" name="rez_cmp_local_custom_drawable_GG6AZAUXCB7ZLG7ZTXOY" stackId="2" startPc="268437992"/>
+<entry endPc="268438625" name="rez_cmp_local_bitmap_label_fontHeight" stackId="4" startPc="268437992"/>
+<entry endPc="268438955" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438628"/>
+<entry endPc="268438955" name="rez_cmp_local_custom_drawable_J1ZV0HD1RKTYTOF5CTYX" stackId="2" startPc="268438628"/>
+<entry endPc="268438955" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438628"/>
+<entry endPc="268439285" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438958"/>
+<entry endPc="268439285" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438958"/>
+<entry endPc="268439285" name="rez_cmp_local_custom_drawable_DR94K1M9MCRMM94TB9H1" stackId="2" startPc="268438958"/>
+<entry endPc="268439615" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439288"/>
+<entry endPc="268439615" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439288"/>
+<entry endPc="268439615" name="rez_cmp_local_custom_drawable_EVAO54PTQY9UGIDZN62G" stackId="2" startPc="268439288"/>
+<entry endPc="268439945" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439618"/>
+<entry endPc="268439945" name="rez_cmp_local_custom_drawable_081IQ1XOGSKO3Y6AJ137" stackId="2" startPc="268439618"/>
+<entry endPc="268439945" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439618"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="FortyTwoDataFieldsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="FortyTwoDataFieldsView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="FortyTwoDataFieldsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerLap" parent="FortyTwoDataFieldsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimerReset" parent="FortyTwoDataFieldsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="toHMS" parent="FortyTwoDataFieldsView">
+<param id="ms"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toMinsXKm" parent="FortyTwoDataFieldsView">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="FortyTwoDataFieldsApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="FortyTwoDataFieldsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="FortyTwoDataFieldsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="FortyTwoDataFieldsApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="TopRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomLeftLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="BottomRightLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
